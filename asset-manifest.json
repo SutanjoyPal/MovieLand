@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieland/static/css/main.3292250f.css",
+    "main.js": "/movieland/static/js/main.74343f97.js",
+    "index.html": "/movieland/index.html",
+    "main.3292250f.css.map": "/movieland/static/css/main.3292250f.css.map",
+    "main.74343f97.js.map": "/movieland/static/js/main.74343f97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.74343f97.js"
+  ]
+}
